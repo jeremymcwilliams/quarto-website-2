@@ -9,6 +9,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: credits.qmd
+        text: Credits
       - section: "Reports"
         contents:
           - href: report1.qmd
