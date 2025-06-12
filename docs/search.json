@@ -15,7 +15,7 @@
     "href": "report1.html",
     "title": "Report 1",
     "section": "",
-    "text": "Here is report 1!",
+    "text": "Here is report 1!\n\n\nCode\nplot(mtcars)",
     "crumbs": [
       "Reports",
       "Report 1"

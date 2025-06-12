@@ -7,3 +7,7 @@ execute:
 ---
 
 Here is report 1!
+
+```{r}
+plot(mtcars)
+```
